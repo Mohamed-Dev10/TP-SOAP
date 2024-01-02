@@ -1,5 +1,5 @@
 
 
-<img src="EuroToDH.PNG" />
-<img src="listAccounts.PNG" />
-<img src="OneAccount.PNG" />
+<img src="Captures/EuroToDH.PNG" />
+<img src="Captures/listAccounts.PNG" />
+<img src="Captures/OneAccount.PNG" />
